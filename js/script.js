@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 contentHTML += `
                 <div class="row justify-content-center">
                         <div class="col-md-6 text-center">
-                            <img src="${pageData.content.imageURL}" alt="Gambar Perkenalan" class="img-fluid">
+                            <img src="${pageData.content.imageURL}" alt="Perkenalan" class="img-fluid">
                         </div>
                     </div>
                     <div class="row justify-content-center">
